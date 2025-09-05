@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+- <html>
+    <head>
+       <title>"cenario verde"</title>
+       <link rel="stylesheet" href="text.qss"/>
+   </head>
+   <body>
+      <div class="card">
+       <img src="https://underarmourbr.vtexassets.com/arquivos/ids/330497-1200-auto?v=638448925386200000&width=1200&height=auto&aspect=true"
+       alt="tenis underarmourbr"
+        width="450px"/>
+           <div class="conteudo"> A venda
+             <div class="Cabecalho">Valor do
+               <span class= "titulo"> Tênis de corrida </span>
+               <span class= "titulo"> R$450,00 </span>
+             </div>
+          <ATP/>
+       </body>
+</html>
+ </div>
